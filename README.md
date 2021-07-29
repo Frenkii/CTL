@@ -14,7 +14,7 @@
 
 Just click the button and you can toggle the landing clearance state
 
-![Screenshot](docs/notCleared.JPG)(default action) means ACFT is _not_ cleared to land
+![Screenshot](docs/notCleared.JPG)(default state) means ACFT is _not_ cleared to land
 
 ![Screenshot](docs/cleared.JPG)(manual input) means ACFT is cleared to land
 
