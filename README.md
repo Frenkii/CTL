@@ -18,9 +18,8 @@ Just click the button and you can toggle the landing clearance state
 
 ![Screenshot](docs/cleared.JPG)(manual input) means ACFT is cleared to land
 
-![Screenshot](docs/alert.JPG)(automatic action) means ACFT is in short final and should be cleared asap :)
+![Screenshot](docs/alert.JPG)(automatic action) means ACFT is in short final and should be cleared asap. But only when:
 
-But only when:
   - Distance to Airport < 6nm
   - lower than 1500ft
   - ACFT is tracked by you
